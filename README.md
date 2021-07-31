@@ -1,7 +1,9 @@
 # go-book
-My follow along with *The Go Programming Language*
+
+My follow along with _The Go Programming Language_.
 
 # Progress
+
 - [ ] Tutorial
 - [ ] Program Structure
 - [ ] Basic Data Types
