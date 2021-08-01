@@ -13,3 +13,9 @@ Compiles source code from files whose names end in .go, links it with libraries,
     go build <your-file>
 
 Creates an .exe file. This file does not need processing and can be ran any time.
+
+## Get
+
+    go get <your-source-code>
+
+Fetches source code and places it in the corresponding directory.
